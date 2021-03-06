@@ -221,10 +221,10 @@ int n;
              else
              {
                  cout<<" 0";
-             }*/
-//             cout<<((i+j)%2==0)?1:0;//use of teranry operator - (condition)?ifTrue:ifFalse
- //       }
- //       cout<<endl; */
+             }
+             cout<<((i+j)%2==0)?1:0;//use of teranry operator - (condition)?ifTrue:ifFalse
+        }
+        cout<<endl; */
 
 /*
     *****
